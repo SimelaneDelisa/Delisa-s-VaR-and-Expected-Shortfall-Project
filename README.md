@@ -25,13 +25,6 @@ Backtesting – Compare predicted VaR against actual losses to test model reliab
 
 Results – Side-by-side comparison showing Monte Carlo performed best.
 
-⚙ How to Run
-bash
-Copy
-Edit
-# Clone this repository
-git clone https://github.com/yourusername/VaR-ES-Backtesting-Portfolio.git
-cd VaR-ES-Backtesting-Portfolio
 
 # Install dependencies
 pip install -r requirements.txt
